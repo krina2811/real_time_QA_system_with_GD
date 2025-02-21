@@ -1,0 +1,9 @@
+langchain
+langgraph
+openai
+chromadb
+faiss-cpu
+tiktoken
+streamlit
+google-auth
+google-auth-oauthlib
